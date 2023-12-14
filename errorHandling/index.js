@@ -1,0 +1,9 @@
+try{
+    console.log("Hee");
+}
+catch(error){
+    console.error(error);
+}
+finally{
+    console.log("DONE")
+}
